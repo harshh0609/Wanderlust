@@ -10,7 +10,6 @@ This project replicates the core functionalities of Airbnb — including propert
 - 🔐 **User Authentication** – Sign up, log in, and secure sessions
 - 🏠 **Property Listings** – Browse, search, and filter stays
 - 📅 **Booking System** – Reserve dates for your chosen property
-- 📍 **Interactive Maps** – View locations with map integration
 - 📷 **Image Uploads** – Add property images via file upload
 - 📱 **Responsive Design** – Works smoothly on mobile and desktop
 - ⚡ **Real-Time Updates** – See new listings instantly (if implemented)
